@@ -19,10 +19,10 @@
 
     <color name="photo_placeholder">#ccc</color>
 
-    <color name="theme_primary">#878787</color>
-    <color name="theme_primary_dark">#454545</color>
-    <color name="theme_accent">#cce656</color>
-    <color name="ltgray">#ffe0e0e0</color>
+    <color name="theme_primary">#607D8B</color>
+    <color name="theme_primary_dark">#455A64</color>
+    <color name="theme_accent">#FF4081</color>
+    <color name="theme_light">#CFD8DC</color>
     <color name="white">#fff</color>
 
     <color name="transparent">@android:color/transparent</color>

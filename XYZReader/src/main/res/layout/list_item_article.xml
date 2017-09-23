@@ -29,7 +29,6 @@
             android:paddingStart="@dimen/default_large_gap"
             android:paddingEnd="@dimen/default_large_gap"
             android:paddingTop="@dimen/default_large_gap"
-            android:textColor="@color/theme_primary_dark"
             android:ellipsize="end"
             android:maxLines="2" />
 
@@ -41,7 +40,6 @@
             android:paddingStart="@dimen/default_large_gap"
             android:paddingEnd="@dimen/default_large_gap"
             android:paddingTop="@dimen/default_large_gap"
-            android:textColor="@color/theme_primary_dark"
             android:maxLines="1"
             android:ellipsize="end" />
 
@@ -53,7 +51,6 @@
             android:paddingStart="@dimen/default_large_gap"
             android:paddingEnd="@dimen/default_large_gap"
             android:paddingBottom="@dimen/default_large_gap"
-            android:textColor="@color/theme_primary_dark"
             android:maxLines="1"
             android:ellipsize="end" />
     </LinearLayout>
