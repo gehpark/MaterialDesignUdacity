@@ -33,7 +33,7 @@
         android:layout_gravity="bottom|end"
         app:fabSize="normal"
         app:elevation="@dimen/fab_elevation"
-        app:pressedTranslationZ="@dimen/fab_press_translation_z"
+        app:pressedTranslationZ="@dimen/fab_translation_z_pressed"
         android:layout_margin="@dimen/fab_margin"
         android:src="@drawable/ic_share"
         android:contentDescription="@string/action_share" />
